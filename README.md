@@ -15,15 +15,15 @@ In this profile, as you join my in my journey, I'll be sharing my projects and e
 ## Technologies I've learned  🛠️
 
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]() [![Html](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=%23E34F26)]() [![Css](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue)]()
+ [![Javascript](https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black&color=%23F7DF1E)]()
 
 - Backend Technologies: Python
-- Front-End Development: HTML, CSS, TailWind, Bootstrap, Vite
+- Front-End Development: HTML, CSS, TailWind, Bootstrap, Vite, JavaScript
 
 ## Technologies I'm currently learning 🛠️
 
- [![Javascript](https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black&color=%23F7DF1E)]()
 
-- Web Development: JavaScript
+- Web Development: 
 - Front-End Frameworks: React, Vue.js
 
 <br>
