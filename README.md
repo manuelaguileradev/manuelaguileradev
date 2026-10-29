@@ -9,28 +9,20 @@ Hi! I'm Manuel, a bilingual (EN/ES) web developer from Mexico moving into Techni
 
 ## Featured project
 
-**[Rick and Morty Explorer]
-(https://manuelaguileradev.github.io/rick-and-morty-explorer/)**: 
-a JavaScript app that consumes a public REST API, with search, filters and favorites saved in localStorage. Built with Vite and SASS, deployed on GitHub Pages. [Code and README](https://github.com/manuelaguileradev/rick-and-morty-explorer)
+**[Rick and Morty Explorer](https://manuelaguileradev.github.io/rick-and-morty-explorer/)**: a JavaScript app that consumes a public REST API, with search, filters and favorites saved in localStorage. Built with Vite and SASS, deployed on GitHub Pages. [Code and README](https://github.com/manuelaguileradev/rick-and-morty-explorer)
 
 ## What I'm working on
-- 
-Practicing API testing and troubleshooting with Postman
-- 
-Learning TypeScript, then React
-- 
-Applying for Technical Support and Junior Frontend roles (remote, US time zones)
-<br>
+
+- Practicing API testing and troubleshooting with Postman
+- Learning TypeScript, then React
+- Applying for Technical Support and Junior Frontend roles (remote, US time zones)
 
 ## Tech stack 🛠️
-- 
-**Frontend:** JavaScript (ES modules), HTML, CSS, SASS, Vite
-- 
-**Backend / scripting:** Python
-- 
-**APIs & debugging:** REST APIs, Postman, Chrome DevTools
-- 
-**Tools:** Git, GitHub, GitHub Pages, AI coding tools (Claude Code, Codex, Antigravity)
+
+- **Frontend:** JavaScript (ES modules), HTML, CSS, SASS, Vite
+- **Backend / scripting:** Python
+- **APIs & debugging:** REST APIs, Postman, Chrome DevTools
+- **Tools:** Git, GitHub, GitHub Pages, AI coding tools (Claude Code, Codex, Antigravity)
 <br>
 
 ## Contact Me 📫
