@@ -1,50 +1,48 @@
 # Hi there! This is Manuel Aguilera
 
-## Full-Stack Developer and Bitcoin Enthusiast 
+## Technical Support & Junior Frontend Developer
 
-Hello! This is Manuel Aguilera, a passionate aspiring Full-Stack developer, and an AI and Bitcoin Enthusiast. Here I'll be sharing my journey in the world of web development and blockchain technology. Cheers from the paradise lands of Mexico!
+JavaScript · Python · REST APIs · Git | Troubleshooting & Customer Communication | Bilingual EN/ES | AI-fluent | NOLS Outdoor Leadership Instructor
 
+Hi! I'm Manuel, a bilingual (EN/ES) web developer from Mexico moving into Technical Support and Junior Frontend roles. I enjoy reproducing bugs, reading what the browser and the API are actually saying, and explaining the fix clearly. Before tech, I spent several seasons at NOLS leading river expeditions and running operations, which taught me to stay calm and systematic when things break. Here you'll find my projects, starting with the Rick and Morty Explorer.
 <br>
 
-## About this Profile
+## Featured project
 
-In this profile, as you join my in my journey, I'll be sharing my projects and evolution as a developer. My goal is to create innovative web solutions and explore the infinite possibilities of AI and blockchain technology.
+**[Rick and Morty Explorer]
+(https://manuelaguileradev.github.io/rick-and-morty-explorer/)**: 
+a JavaScript app that consumes a public REST API, with search, filters and favorites saved in localStorage. Built with Vite and SASS, deployed on GitHub Pages. [Code and README](https://github.com/manuelaguileradev/rick-and-morty-explorer)
 
+## What I'm working on
+- 
+Practicing API testing and troubleshooting with Postman
+- 
+Learning TypeScript, then React
+- 
+Applying for Technical Support and Junior Frontend roles (remote, US time zones)
 <br>
 
-## Technologies I've learned  🛠️
-
-[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]() [![Html](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=%23E34F26)]() [![Css](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue)]()
- [![Javascript](https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black&color=%23F7DF1E)]()
-
-- Backend Technologies: Python
-- Front-End Development: HTML, CSS, TailWind, Bootstrap, Vite, JavaScript
-
-## Technologies I'm currently learning 🛠️
-
-
-- Web Development: 
-- Front-End Frameworks: React, Vue.js
-
+## Tech stack 🛠️
+- 
+**Frontend:** JavaScript (ES modules), HTML, CSS, SASS, Vite
+- 
+**Backend / scripting:** Python
+- 
+**APIs & debugging:** REST APIs, Postman, Chrome DevTools
+- 
+**Tools:** Git, GitHub, GitHub Pages, AI coding tools (Claude Code, Codex, Antigravity)
 <br>
 
 ## Contact Me 📫
+If you're hiring or just want to talk about web development, support or AI tools, reach out:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%23363636)](https://www.linkedin.com/in/manuelaguileradev)
+<br>
 
-If you have questions, suggestions, or just want to chat about web development or blockchain, don't hesitate to get in touch with me through:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%23363636)](www.linkedin.com/in/manuel-aguilera-codes)
-</br>
 [![Personal Email](https://img.shields.io/badge/Personal%20Email-white?style=for-the-badge&logo=gmail&logoColor=white&label=manuel.aguilera.vr%40gmail.com&labelColor=black&color=%23EA4335)](mailto:manuel.aguilera.vr@gmail.com)
-
 <br>
 
 I hope you enjoy exploring my repositories! Thanks for visiting! 👋
 
 
-<!--
 
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
--->
+
