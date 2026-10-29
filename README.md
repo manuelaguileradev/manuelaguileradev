@@ -27,6 +27,7 @@ Hi! I'm Manuel, a bilingual (EN/ES) web developer from Mexico moving into Techni
 
 ## Contact Me 📫
 If you're hiring or just want to talk about web development, support or AI tools, reach out:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%23363636)](https://www.linkedin.com/in/manuelaguileradev)
 <br>
 
